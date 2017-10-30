@@ -4,3 +4,4 @@ django_pylibmc.egg-info
 pylibmc
 dist/*
 build/*
+.idea
